@@ -1,2 +1,2 @@
-print("Isto é uma derivada")
+print("Isto é uma derivada y no es una integral")
 
